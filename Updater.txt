@@ -1,8 +1,7 @@
 { 
-   "ver1":"2",
-   "ver2":"10",
+   "ver1":"1",
+   "ver2":"0",
    "ver3":"
-   \nMUST Update.. Your RWhatsApp is too old!
-   \nCurrent Version is V2.7!
-   \n[Base Updated] 2.19.370 and much more!"
+   \nMUST Update.. Your Auto TTS is too old!
+   \nCurrent stable build is v5.2.2!"
 }
