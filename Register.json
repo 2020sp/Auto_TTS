@@ -1,6 +1,16 @@
 {
    "users":[
       {
+         "name":"Swaroop Haldar",
+         "email":"mswaroophaldar@gmail.com",
+         "deviceId":"ca2370794d85cc20"
+      },
+      {
+         "name":"Meera Haldar",
+         "email":"mswaroophaldar@gmail.com",
+         "deviceId":"ae67889e76c8ae87"
+      },
+      {
          "name":"Dinesh Paswan",
          "email":"dineshid00@gmail.com",
          "deviceId":"fedd26226adef2a5"
