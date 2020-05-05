@@ -1,6 +1,11 @@
 {
    "users":[
       {
+         "name":"Badri Prasad",
+         "email":"badriprasad304@gmail.com",
+         "deviceId":"ca561d88d1a519cb"
+      },
+      {
          "name":"Sakina Juzer",
          "email":"sakinasaify694@gmail.com",
          "deviceId":"656ed7b3b5b6c607"
