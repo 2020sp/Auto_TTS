@@ -2,36 +2,43 @@
    "users":[
       {
          "name":"Badri Prasad",
+         "expiry":"LIFETIME",
          "email":"badriprasad304@gmail.com",
          "deviceId":"ca561d88d1a519cb"
       },
       {
          "name":"MD Sabir",
+         "expiry":"LIFETIME",
          "email":"singermdsabir@gmail.com",
          "deviceId":"6fa87ff758a43199-"
       },
       {
          "name":"Swaroop Haldar",
+         "expiry":"LIFETIME",
          "email":"mswaroophaldar@gmail.com",
          "deviceId":"ca2370794d85cc20"
       },
       {
          "name":"Meera Haldar",
+         "expiry":"LIFETIME",
          "email":"mswaroophaldar@gmail.com",
          "deviceId":"ae67889e76c8ae87"
       },
       {
          "name":"Dinesh Paswan",
+         "expiry":"LIFETIME",
          "email":"dineshid00@gmail.com",
          "deviceId":"fedd26226adef2a5"
       },
       {
          "name":"Dinesh Paswan",
+         "expiry":"LIFETIME",
          "email":"dineshid00@gmail.com v9",
          "deviceId":"68f6fee48edda4a5"
       },
       {
          "name":"Ashish Kaushik",
+         "expiry":"LIFETIME",
          "email":"ashishkaushik765@gmail.com",
          "deviceId":"acd58b2c756b4bce"
       }
