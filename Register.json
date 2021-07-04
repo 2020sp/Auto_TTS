@@ -1,4 +1,5 @@
 {
+   "prices":["A", "B", "C"]
    "users":[
       {
          "name":"Badri Prasad",
