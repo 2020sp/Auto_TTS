@@ -1,5 +1,11 @@
+
 {
-   "prices":["A", "B", "C"],
+   "prices":[
+      "One Month - Rs.300",
+      "Six Month - Rs.1200",
+      "Twelve Month - Rs.2000",
+      "Lifetime - Rs.3000"
+    ],
    "users":[
       {
          "name":"Badri Prasad",
@@ -42,6 +48,12 @@
          "expiry":"LIFETIME",
          "email":"ashishkaushik765@gmail.com",
          "deviceId":"acd58b2c756b4bce"
+      },
+      {
+         "name":"Ravi Varma",
+         "expiry":"LIFETIME",
+         "email":"rvarma2221@gmail.com",
+         "deviceId":"6d78e87744c00fa1"
       }
    ]
 }
