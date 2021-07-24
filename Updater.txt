@@ -1,7 +1,7 @@
 { 
    "version":2.0,
    "isCancellable":false,
-   "downloadUrl":"xvideos.com",
+   "downloadUrl":"https://google.com",
    "changelog":"
    \nMUST Update...\nYour ETI-Eloquence TTS is outdated!"
 }
