@@ -1,10 +1,10 @@
 
 {
    "prices":[
-      "1 Month - Rs: 50.",
-      "6 Months - Rs: 300.",
-      "1 Year - Rs: 600.",
-      "Lifetime - Rs: 2000."
+      "15 Days - Rs: 19.",
+      "1 Month - Rs: 49.",
+      "6 Months - Rs: 299.",
+      "1 Year - Rs: 599."
     ],
    "sub":["Plans"],
    "users":[
@@ -39,10 +39,10 @@
          "deviceId":"fedd26226adef2a5"
       },
       {
-         "name":"Dinesh Paswan",
+         "name":"Stallon Peris",
          "expiry":"LIFETIME",
-         "email":"dineshid00@gmail.com v9",
-         "deviceId":"68f6fee48edda4a5"
+         "email":"stallonperis68@gmail.com",
+         "deviceId":"f068355f3b32d47e"
       },
       {
          "name":"Ashish Kaushik",
