@@ -1,6 +1,6 @@
 { 
    "version":2.1,
-   "isCancellable":true,
+   "isCancellable":false,
    "downloadUrl":"https://google.com",
    "changelog":"
    \nMUST Update...\nYour ETI-Eloquence TTS is outdated!"
