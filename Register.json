@@ -9,6 +9,12 @@
    "sub":["Plans"],
    "users":[
       {
+         "name":"Deepu Patel",
+         "expiry":"28/September/2021",
+         "email":"empowerofblind@gmail.com",
+         "deviceId":"3c3f2b6c38e8eacc"
+      },
+      {
          "name":"Swaroop Haldar",
          "expiry":"LIFETIME",
          "email":"swaroop.haldar105@gmail.com",
