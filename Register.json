@@ -9,6 +9,12 @@
    "sub":["Plans"],
    "users":[
       {
+         "name":"Swaroop Haldar",
+         "expiry":"LIFETIME",
+         "email":"swaroop.haldar105@gmail.com",
+         "deviceId":"f3d64189e122d5a3"
+      },
+      {
          "name":"MD Shamim Ansari",
          "expiry":"8/August/2021",
          "email":"shamimsir@gmail.com",
@@ -21,10 +27,10 @@
          "deviceId":"b629811fcdfdbbbb"
       },
       {
-         "name":"MD Sabir",
+         "name":"Meera Haldar",
          "expiry":"LIFETIME",
-         "email":"singermdsabir@gmail.com",
-         "deviceId":"d18dadd75c39ad5d"
+         "email":"meerameghwalnvs@gmail.com",
+         "deviceId":"3af74f6dd595e473"
       },
       {
          "name":"Lakky Qureshi",
