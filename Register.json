@@ -9,8 +9,14 @@
    "sub":["Plans"],
    "users":[
       {
+         "name":"Satish L Nikam",
+         "expiry":"10/September/2021",
+         "email":"satishlnikam@gmail.com",
+         "deviceId":"bd470f48cd21cc4e"
+      },
+      {
          "name":"Deepu Patel",
-         "expiry":"28/September/2021",
+         "expiry":"08/September/2021",
          "email":"empowerofblind@gmail.com",
          "deviceId":"3c3f2b6c38e8eacc"
       },
@@ -22,13 +28,13 @@
       },
       {
          "name":"MD Shamim Ansari",
-         "expiry":"8/August/2021",
+         "expiry":"08/September/2021",
          "email":"shamimsir@gmail.com",
          "deviceId":"4d0b2dcc7ae41b15"
       },
       {
          "name":"Mahesh Dengda",
-         "expiry":"26/August/2021",
+         "expiry":"06/September/2021",
          "email":"dengdamahesh52@gmail.com",
          "deviceId":"b629811fcdfdbbbb"
       },
