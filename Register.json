@@ -9,6 +9,12 @@
    "sub":["Plans"],
    "users":[
       {
+         "name":"Prajeesh K",
+         "expiry":"10/September/2021",
+         "email":"prajeeshkasaragod995@gmail.com",
+         "deviceId":"80ce0e1434dbf328"
+      },
+      {
          "name":"Satish L Nikam",
          "expiry":"10/September/2021",
          "email":"satishlnikam@gmail.com",
@@ -48,7 +54,7 @@
          "name":"Mahesh Dengda",
          "expiry":"26/August/2021",
          "email":"dengdamahesh52@gmail.com",
-         "deviceId":"b629811fcdfdbbbb"
+         "deviceId":"b629811fcdfdbbb*b"
       },
       {
          "name":"Meera Haldar",
