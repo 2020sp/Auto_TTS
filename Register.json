@@ -9,6 +9,12 @@
    "sub":["Plans"],
    "users":[
       {
+         "name":"Abdullah Zafar",
+         "expiry":"TRIAL!",
+         "email":"abdullah5490@gmail.com",
+         "deviceId":"14e11c7d7956381"
+      },
+      {
          "name":"Prajeesh K",
          "expiry":"10/September/2021",
          "email":"prajeeshkasaragod995@gmail.com",
