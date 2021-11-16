@@ -9,6 +9,12 @@
    "sub":["Plans"],
    "users":[
       {
+         "name":"Bapi Mamdal",
+         "expiry":"16/May/2022",
+         "email":"mandalbapi11@gmail.com",
+         "deviceId":"76dc8bf49520aa91"
+      },
+      {
          "name":"Abdullah Zafar",
          "expiry":"TRIAL!",
          "email":"abdullah5490@gmail.com",
